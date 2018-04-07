@@ -1,0 +1,26 @@
+.navbar {
+    background: #6CADDC;
+    width: 100%;
+    height: 7rem;
+    -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
+    color: #fff;
+    z-index: 99;
+    white-space: nowrap;
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 26px 0;
+    width: 33.3%;
+    text-align: center;
+    vertical-align: text-center;
+}
+
+.bold {
+   font-size: 48px;
+   font-weight: bolder;
+}
+.small {
+   font-size: 12px;
+}

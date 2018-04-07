@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Philip J. Fry",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/28/Philip_Fry.png"
+  },
+  {
+    "id": 1,
+    "name": "Turanga Leela",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Turanga_Leela.png"
+  },
+  {
+    "id": 2,
+    "name": "Bender Bending Rodríguez",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Bender_Rodriguez.png"
+  },
+  {
+    "id": 3,
+    "name": "Professor Hubert J. Farnsworth",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/FuturamaProfessorFarnsworth.png"
+  },
+  {
+    "id": 4,
+    "name": "Amy Wong",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/FuturamaAmyWong.png"
+  },
+  {
+    "id": 5,
+    "name": "Hermes Conrad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hermes_Conrad_promo_pic.png"
+  },
+  {
+    "id": 6,
+    "name": "Doctor John Zoidberg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Dr_John_Zoidberg.png"
+  },
+  {
+    "id": 7,
+    "name": "Zapp Brannigan",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/15/Captain_Zapp_Brannigan.png"
+  }
+]
