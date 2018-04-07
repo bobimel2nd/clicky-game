@@ -34,7 +34,7 @@ class App extends Component {
     card.clicked = true
     cards[id].class = "imgNormal"
     cards[id]  = card
-    const shuffled = cards.map((a) => ({sort: Math.random(), value: a}))
+    let shuffled = cards.map((a) => ({sort: Math.random(), value: a}))
                         .sort((a, b) => a.sort - b.sort)
                         .map((a, i) =>  { a.value.id = i
                                           return a.value})
@@ -57,8 +57,8 @@ class App extends Component {
         this.setState({bestWins: this.state.currWins+1});
         this.setState({currWins: 0 })
         this.setState({text: "Perfect, " + character + " was the last one. Starting new game !!!"})
-      cards = shuffled.map((a) => { a.clicked = false
-                                    return a })
+        cards = shuffled.map((a) => { a.clicked = false
+                                      return a })
       }
     }
     this.setState({characters: cards})
